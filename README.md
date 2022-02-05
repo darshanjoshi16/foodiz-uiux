@@ -2,69 +2,45 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Foodiz- The Restaurant is the website built with modern UI/UX Technology and using React JS... Currently it is only UI/UX Part and it is not hosted on any domain but for sure it looks much better😍
 
-In the project directory, you can run:
+**Description and Snapshots of the Build**
 
-### `npm start`
+![image](https://user-images.githubusercontent.com/70624714/152654047-f62403db-b75e-4f8d-8452-72db46246357.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This is the introductory part of our UI which contains the header and subheading content. I have used Figma and totally CSS for responsiveness..
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://user-images.githubusercontent.com/70624714/152654108-c096f855-3ef8-40a7-bf0c-1eba80117523.png)
 
-### `npm test`
+This shows the history and motto of the restaurant using CSS and grid like structure
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://user-images.githubusercontent.com/70624714/152654120-02794812-3a31-4713-b27f-d7aca4446bda.png)
 
-### `npm run build`
+This part is the menu part of the modern UI/UX container
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://user-images.githubusercontent.com/70624714/152654155-58e59400-2993-40b4-9524-94e9a15c0ba7.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This is the owner part which is ofcourse is responsive and using css
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://user-images.githubusercontent.com/70624714/152654249-15aa5e60-b331-47a1-b5d5-5bc16f75b437.png)
 
-### `npm run eject`
+This is the video integreted with the design with using dark bg-overlay properties 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![image](https://user-images.githubusercontent.com/70624714/152654283-6911a7ae-67be-4f95-a030-9ea04fac2e36.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This is the photo gallery section which can  be used to flaunt the various dishes of the restaurant
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![image](https://user-images.githubusercontent.com/70624714/152654316-061af51d-75ad-4ffb-a19d-2c2fdd64d6c5.png)
+![image](https://user-images.githubusercontent.com/70624714/152654330-52114bb0-4621-4e1b-b442-dcc5a1044085.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This is our footer and contact us area...
 
-## Learn More
+![image](https://user-images.githubusercontent.com/70624714/152654399-258f9967-721d-49dc-8739-a9a51926a8c4.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Mobile Responsiveness
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+As currently this site is **NOT DEPLOYED** and **FRONTEND UI/UX"
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made with ReactJS,Figma Design and Pure CSS
