@@ -41,6 +41,6 @@ This is our footer and contact us area...
 Mobile Responsiveness
 
 
-As currently this site is **NOT DEPLOYED** and **FRONTEND UI/UX"
+As currently this site is **NOT DEPLOYED** and **FRONTEND UI/UX**
 
 Made with ReactJS,Figma Design and Pure CSS
